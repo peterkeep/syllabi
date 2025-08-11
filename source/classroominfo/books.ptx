@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="books" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Books and Supplies</title>
+    <subsubsection xml:id="textbook">
+        <title>Textbook</title>
+        <p>
+            We will not be using a traditional textbook in this course. This semester we will be using a free and open source calculus textbook, called <em>Discover Calculus</em>. You can find the link to the textbook website, pdf, and relevant portions of the textbook on Canvas.
+        </p>
+    </subsubsection>
+
+    <subsubsection xml:id="calculators">
+        <title>Calculators</title>
+        <p>
+            Similarly, we will not be using any specific calculators this semester. You can bring a calculator that you're comfortable with to class if you'd like, and we'll make use of free graphing tools like Desmos in class.
+        </p>
+        <p>
+            Calculators with a computer algebra system are prohibited on any graded work.
+        </p>
+    </subsubsection>
+
+
+</subsection>

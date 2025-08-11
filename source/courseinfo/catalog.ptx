@@ -1,0 +1,20 @@
+<subsection xml:id="catalog">
+    <title>Catalog Description</title>
+    <subsubsection xml:id="prereq">
+        <title>Prerequisites</title>
+        <p>
+            Appropriate placement test score, or MTH 141 (College Algebra) and MTH 142 (Trigonometry) with a minimum grade of "C."
+        </p>
+    </subsubsection>
+    <subsubsection xml:id="coursedescription">
+        <title>Course Description</title>
+        <p>
+            Topics include limits, continuity, the derivative, applications of differentiation, curve sketching, antidifferentiation, and the definite integral. These topics are applied to polynomial, radical, rational, logarithmic, exponential, trigonometric, and hyperbolic functions. Note: No more than five semester hours of credit will be granted to students taking both MTH 145 and MTH 150.
+        </p>
+    </subsubsection>
+    <conclusion>
+        <p>
+            <em>Illinois Articulation Initiative number:</em> MTH 901
+        </p>
+    </conclusion>
+</subsection>

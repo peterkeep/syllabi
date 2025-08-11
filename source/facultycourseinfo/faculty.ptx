@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="faculty" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Faculty Information</title>
+  <table>
+    <title></title>
+    <tabular>
+        <row>
+            <cell>Instructor Name:</cell> <cell>Peter Keep</cell>
+            <cell>Email:</cell> <cell>keepp@morainevalley.edu</cell>
+        </row>
+        <row>
+            <cell>Office:</cell> <cell>A230</cell>
+            <cell>Mailbox:</cell> <cell>C154</cell>
+        </row>
+        <row>
+            <cell>Office Phone:</cell> <cell>(708) 974-5614</cell>
+            <cell>Testing Center File #:</cell> <cell>564</cell>
+        </row>
+    </tabular>
+  </table>
+        
+</subsection>

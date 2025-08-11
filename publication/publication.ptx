@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<publication>
+    <!-- directories are relative to the main source PreTeXt file -->
+    <source>
+        <directories external="../assets" generated="../generated-assets"/>
+    </source>
+    <html embed-button="yes">
+        <platform host="web" portable="true"/>
+        <css 
+            theme="boulder"
+            primary-color="#085646"
+            primary-color-dark="#799E8F"
+        />
+        <navigation upbutton="no"/>
+    </html>
+    <common>
+        <chunking level="0"/>
+    </common>
+</publication>

@@ -1,0 +1,37 @@
+<subsection xml:id="courseconcepts">
+    <title>Major Course Concepts</title>
+    <p>
+       <ol>
+        <li>
+            <p>
+                Limits and continuity
+            </p>
+        </li>
+        <li>
+            <p>
+                Derivatives
+            </p>
+        </li>
+        <li>
+            <p>
+                Applications of the derivative
+            </p>
+        </li>
+        <li>
+            <p>
+                Antiderivatives and definite integrals
+            </p>
+        </li>
+        <li>
+            <p>
+                Exponential and logarithmic functions
+            </p>
+        </li>
+        <li>
+            <p>
+                Trigonometric and hyperbolic functions
+            </p>
+        </li>
+       </ol> 
+    </p>
+</subsection>

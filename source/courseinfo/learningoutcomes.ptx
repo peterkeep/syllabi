@@ -1,0 +1,87 @@
+<subsection xml:id="learningoutcomes">
+    <title>Expected Outcomes for Student Learning</title>
+    <subsubsection xml:id="courseSLO">
+        <title>Course Student Learning Outcomes</title>
+        <p>
+            Upon completion of this course, a student will be able to:
+            <ol>
+                <li>
+                    <p>
+                        Evaluate limits graphically, numerically, and analytically, including infinite limits and limits at infinity.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Analyze functions graphically and numerically and determine the continuity of the function at fixed points in its domain.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Compute derivatives of polynomial, radical, rational, trigonometric, exponential, and logarithmic functions.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Explain the relationship between the derivative and each of the following: the slope of a tangent line to a function, the velocity and acceleration of an object.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Solve applied problems involving related rates of change, the velocity or acceleration of an object, and optimization.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Find the critical points of a function and determine the intervals where a function increases and decreases.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Determine the intervals over which a function is concave up and concave down and identify any inflection points.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Use the First and Second Derivative Tests to identify local extrema.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Use the first and second derivatives in curve sketching.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Use L'Hopital's Rule to evaluate limits and indeterminate forms.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Find the indefinite integral of functions involving or resulting in polynomial, radical, rational, trigonometric, exponential, and logarithmic functions.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Explain the relationship between the area under the curve and the definite integral.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Evaluate the definite integral of functions involving polynomial, radical, rational, trigonometric, exponential, and logarithmic functions.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Evaluate definite and indefinite integrals using substitution.
+                    </p>
+                </li>
+            </ol>
+        </p>
+    </subsubsection>
+    <subsubsection xml:id="CLO">
+        <title>Common Learning Outcomes</title>
+        <p>
+            <em>Quantitative Literacy:</em> Use processes, procedures, data or evidence to solve problems and make effective decisions.
+        </p>
+    </subsubsection>
+</subsection>

@@ -1,0 +1,42 @@
+INFO    : Building target web
+INFO    : XSL conversion of /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx by /home/peterkeep/.ptx/2.23.0/core/xsl/utilities/pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+WARNING : * PTX:WARNING: the publisher file  html/platform/@portable  entry should not have value "true".  Possible values are: "no" or "yes".  The default, "no", will be used instead.
+INFO    : successful application of /home/peterkeep/.ptx/2.23.0/core/xsl/utilities/pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : converting latex-image pictures from /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx to svg graphics for placement in /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/generated-assets/latex-image
+INFO    : extracting latex-image pictures from /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx
+INFO    : string parameters passed to extraction stylesheet: {'cli.version': '2.23', 'publisher': '/home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/publication/publication.ptx'}
+INFO    : discovering source file's directory name: /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source
+INFO    : verifying and expanding input directory: /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/../generated-assets
+INFO    : input directory expanded to absolute path: /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/generated-assets
+INFO    : verifying and expanding input directory: /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/../assets
+INFO    : input directory expanded to absolute path: /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/assets
+INFO    : XSL conversion of /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx by /home/peterkeep/.ptx/2.23.0/core/xsl/extract-latex-image.xsl
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of /home/peterkeep/.ptx/2.23.0/core/xsl/extract-latex-image.xsl
+INFO    : converting tikz-example-diagram.tex to tikz-example-diagram.pdf
+INFO    : cropping tikz-example-diagram.pdf to cropped-tikz-example-diagram.pdf
+INFO    : renaming cropped-tikz-example-diagram.pdf to tikz-example-diagram.pdf
+INFO    : converting tikz-example-diagram.pdf to tikz-example-diagram.svg
+INFO    : Removing temporary directory /tmp/ptx-fso7uzkt
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/output/web.
+INFO    : XSL conversion of /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx by /home/peterkeep/.ptx/2.23.0/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : successful application of /home/peterkeep/.ptx/2.23.0/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.8.5
+INFO    : Downloading Runestone Services, version 7.8.5
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-boulder
+INFO    : converting /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx to HTML in /tmp/ptx-pxa8jm3_
+INFO    : XSL conversion of /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx by /home/peterkeep/.ptx/2.23.0/core/xsl/pretext-html.xsl
+INFO    : successful application of /home/peterkeep/.ptx/2.23.0/core/xsl/pretext-html.xsl
+INFO    : Removing temporary directory /tmp/ptx-pxa8jm3_
+INFO    : Removing temporary directory /tmp/ptx-j3t81i0l
+INFO    : 
+Success! Run `pretext view web` to see the results.
+
+INFO    : 

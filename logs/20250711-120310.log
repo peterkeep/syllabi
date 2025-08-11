@@ -1,0 +1,28 @@
+INFO    : Building target print
+INFO    : XSL conversion of /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx by /home/peterkeep/.ptx/2.23.0/core/xsl/utilities/pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+WARNING : * PTX:WARNING: the publisher file  html/platform/@portable  entry should not have value "true".  Possible values are: "no" or "yes".  The default, "no", will be used instead.
+INFO    : successful application of /home/peterkeep/.ptx/2.23.0/core/xsl/utilities/pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/output/print.
+INFO    : discovering source file's directory name: /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source
+INFO    : verifying and expanding input directory: /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/../generated-assets
+INFO    : input directory expanded to absolute path: /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/generated-assets
+INFO    : verifying and expanding input directory: /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/../assets
+INFO    : input directory expanded to absolute path: /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/assets
+INFO    : XSL conversion of /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx by /home/peterkeep/.ptx/2.23.0/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : successful application of /home/peterkeep/.ptx/2.23.0/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : converting /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx to LaTeX as /tmp/ptx-vtc3ylgc/main.tex
+INFO    : XSL conversion of /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/source/main.ptx by /home/peterkeep/.ptx/2.23.0/core/xsl/pretext-latex.xsl
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of /home/peterkeep/.ptx/2.23.0/core/xsl/pretext-latex.xsl
+INFO    : Removing temporary directory /tmp/ptx-vtc3ylgc
+INFO    : Removing temporary directory /tmp/ptx-voxxz22i
+INFO    : Removing temporary directory /tmp/ptx-z3ccijy8
+INFO    : 
+Success! The output is in /home/peterkeep/SecondDrive/Projects/PreText/Syllabi/MTH150/output/print.
+
+INFO    : 
