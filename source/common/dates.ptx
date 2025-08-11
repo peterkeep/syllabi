@@ -1,0 +1,13 @@
+<subsection xml:id="dates" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Withdrawal Deadline</title>
+    <p>
+        A student who does not withdraw officially from a course may receive a grade of <q>F</q> depending on course progress or course attendance.
+    </p>
+    <xi:include href="../150/datestable.ptx" />
+    <note>
+        <p>
+            If you have a hold on your record which prevents you from dropping classes online, you must either visit the Registration Office (S111A) or call (708) 974-2110 to drop classes during normal business hours
+        </p>
+    </note>
+
+</subsection>

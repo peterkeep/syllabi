@@ -13,11 +13,13 @@
     <title>MTH 150 Syllabus</title>
 
     <xi:include href="./frontmatter.ptx" />
-    
     <xi:include href="./150/introduction.ptx" />
     <xi:include href="./facultycourseinfo.ptx" />
     <xi:include href="./courseinfo.ptx" />
-    <xi:include href="./classroominfo.ptx" />
+    <xi:include href="./books.ptx" />
+    <xi:include href="./classroompolicies.ptx" />
+    <xi:include href="./common/gradingpolicies.ptx" />
+    <xi:include href="./common/schedule.ptx" />
   </article>
 
 </pretext>

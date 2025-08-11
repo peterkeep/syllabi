@@ -1,0 +1,36 @@
+<subsection xml:id="gradingscale">
+    <title>Grading Scale</title>
+    <p>
+        Instead of focusing on a number grade for any assignments, the focus will be on feedback and growth. I will try to leave helpful comments when your answers are incorrect so that you can continue to learn.
+    </p>
+    <p>
+        For every grade, you will get marked categorically:
+        <ul>
+            <li>
+                <p>
+                    <em>Cannot Assess:</em> the answers might be incomplete or missing, so that I cannot assess what you know.
+                </p>
+            </li>
+            <li>
+                <p>
+                    <em>Needs Work:</em> there are enough mistakes, or big enough mistakes, where it is clear that some more work is needed on this topic.
+                </p>
+            </li>
+            <li>
+                <p>
+                    <em>Meets Expectations:</em> these answers are good, and while there may be some small mistakes, they are inconsequential enough that it is still clear that you understand the concepts we're testing.
+                </p>
+            </li>
+            <li>
+                <p>
+                    <em>Continued Learning:</em> this is the second time that you have demonstrated understanding of this topic!
+                </p>
+                <aside>
+                    <p>
+                        Continued Learning will only be a relevant grade for the Main Standards.
+                    </p>
+                </aside>
+            </li>
+        </ul>
+    </p>
+</subsection>

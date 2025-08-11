@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<section xml:id="classroominfo" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Classroom Information</title>
-  <xi:include href="./150/books.ptx" />
-  <xi:include href="./common/classroompolicies.ptx" />
-  <xi:include href="./150/gradingpolicies.ptx" />
-  <xi:include href="./150/schedule.ptx" />
-</section>

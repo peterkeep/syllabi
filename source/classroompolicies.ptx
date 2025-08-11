@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="classroompolicies" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Classroom Policies and Procedures</title>
+    
+    <xi:include href="./common/attendance.ptx" />
+    <xi:include href="./common/academicintegrity.ptx" />
+    <xi:include href="./common/email.ptx" />
+    <xi:include href="./common/dates.ptx" />
+    <xi:include href="./common/accommodations.ptx" />
+    
+</section>

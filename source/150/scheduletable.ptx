@@ -1,0 +1,225 @@
+<table>
+    <title>Tentative Course Schedule</title>
+    <tabular>
+        <row header="yes" bottom="major">
+            <cell>Week</cell>
+            <cell>Date</cell>
+            <cell>Agenda</cell>
+        </row>
+        <row>
+            <cell>Week 1: </cell>
+            <cell>Aug. 19</cell>
+            <cell>Welcome to Class!</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Aug. 21</cell>
+            <cell>M.1. Definitions of Limits</cell>
+        </row>
+        <row>
+            <cell>Week 2: </cell>
+            <cell>Aug. 26</cell>
+            <cell>M.2. Computing Limits</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Aug. 28</cell>
+            <cell>M.3. First Indeterminate Forms</cell>
+        </row>
+        <row>
+            <cell>Week 3: </cell>
+            <cell>Sept. 2</cell>
+            <cell>M.4. Limits Involving Infinity</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell>Sept. 4</cell>
+            <cell>E.1. Squeeze Theorem</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell></cell>
+            <cell><em>Checkup 1: M.1, M.2, M.3</em></cell>
+        </row>
+        <row>
+            <cell>Week 4: </cell>
+            <cell>Sept. 9</cell>
+            <cell>M.5. Continuity</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Sept. 11</cell>
+            <cell>E.2. Precise Definitions of Limits</cell>
+        </row>
+        <row>
+            <cell>Week 5: </cell>
+            <cell>Sept. 16</cell>
+            <cell>M.6. Definition of a Derivative</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell></cell>
+            <cell>M.7. Interpreting Derivatives</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell>Sept. 18</cell>
+            <cell>M.8. Common Derivatives</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell></cell>
+            <cell><em>Checkup 2: M.4, E.1, M.5, E.2</em></cell>
+        </row>
+        <row>
+            <cell>Week 6: </cell>
+            <cell>Sept. 23</cell>
+            <cell>M.9. Product and Quotient Rules</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Sept. 25</cell>
+            <cell>M.10. Chain Rule</cell>
+        </row>
+        <row>
+            <cell>Week 7: </cell>
+            <cell>Sept. 30</cell>
+            <cell><em>No class: Staff Development Day</em></cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell>Oct. 2</cell>
+            <cell><em>Checkup 3: M.6, M.7, M8</em></cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell></cell>
+            <cell><em>Retakes for Checkups 1-2</em></cell>
+        </row>
+        <row>
+            <cell>Week 8: </cell>
+            <cell>Oct. 7</cell>
+            <cell>M.11. Implicit Differentiation</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Oct. 9</cell>
+            <cell>M.12. Inverse Derivatives</cell>
+        </row>
+        <row>
+            <cell>Week 9: </cell>
+            <cell>Oct. 14</cell>
+            <cell>E.3. Advanced Derivatives</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell></cell>
+            <cell>M.13. Mean Value Theorem</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell>Oct. 16</cell>
+            <cell>M.14. Increasing/Decreasing</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell></cell>
+            <cell><em>Checkup 4: M.7, M.8, M.9, M.10, M.11, M.12, E.3</em></cell>
+        </row>
+        <row>
+            <cell>Week 10: </cell>
+            <cell>Oct. 21</cell>
+            <cell>M.15. Concavity</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Oct. 23</cell>
+            <cell>M.16. Absolute Extrema</cell>
+        </row>
+        <row>
+            <cell>Week 11: </cell>
+            <cell>Oct. 28</cell>
+            <cell>E.4. Optimization</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell>Oct. 30</cell>
+            <cell><em>Checkup 5: M.13, M.15. M.16, E.4</em></cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell></cell>
+            <cell><em>Retakes for Checkups 3-4</em></cell>
+        </row>
+        <row>
+            <cell>Week 12: </cell>
+            <cell>Nov. 4</cell>
+            <cell>M.17. Linear Approximation</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell></cell>
+            <cell>E.5. L'Hopital's Rule</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Nov. 6</cell>
+            <cell>M.18. Antiderivatives and Indefinite Integrals</cell>
+        </row>
+        <row>
+            <cell>Week 13: </cell>
+            <cell>Nov. 11</cell>
+            <cell>M.19. Riemann Sums</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell></cell>
+            <cell><em>Checkup 6: M.17, E.5, M.18, M.19</em></cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Nov. 13</cell>
+            <cell><em>No Class</em> (M.20. Fundamental Theorem of Calculus)</cell>
+        </row>
+        <row>
+            <cell>Week 14: </cell>
+            <cell>Nov. 18</cell>
+            <cell>M.20. Fundamental Theorem of Calculus</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell></cell>
+            <cell>E.6. Definite Integral Tricks</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Nov. 20</cell>
+            <cell>E.7. <m>u</m>-Substitution</cell>
+        </row>
+        <row>
+            <cell>Week 15: </cell>
+            <cell>Nov. 25</cell>
+            <cell><em>Checkup 7: M.18, M.20, E.6, E.7</em></cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell></cell>
+            <cell><em>Retakes for Checkups 5-6</em></cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Nov. 27</cell>
+            <cell><em>No class: Thanksgiving</em></cell>
+        </row>
+        <row>
+            <cell>Week 16: </cell>
+            <cell>Dec. 2</cell>
+            <cell><em>Final Exam (Part 1)</em></cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Dec. 4</cell>
+            <cell><em>Final Exam (Part 2)</em></cell>
+        </row>
+    </tabular>
+</table>
