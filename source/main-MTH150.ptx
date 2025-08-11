@@ -19,6 +19,7 @@
     <xi:include href="./books.ptx" />
     <xi:include href="./classroompolicies.ptx" />
     <xi:include href="./common/gradingpolicies.ptx" />
+    <xi:include href="./150/gradedstandards.ptx" />
     <xi:include href="./common/schedule.ptx" />
   </article>
 

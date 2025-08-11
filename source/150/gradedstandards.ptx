@@ -1,0 +1,153 @@
+<section xml:id="gradedstandards">
+    <title>Graded Standards</title>
+    <subsection xml:id="main">
+        <title>Main Standards</title>
+        <p>
+            <ol marker="M.1.">
+                <li>
+                    <p>
+                        <em>Definition of Limits.</em> Use the definition of a limit to interpret and approximate limits graphically and numerically.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Computing Limits.</em> Evaluate limits using different analytic techniques and properties of limits.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>First Indeterminate Forms.</em> Evaluate limits with the indeterminate form <m>0/0</m> using algebraic manipulations.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Limits Involving Infinity.</em> Evaluate and interpret limits involving infinity: both infinite limits and limits at infinity.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Continuity.</em> Define continuity and determine continuity of functions at a point, an endpoint, and on an interval. Use and interpret the Intermediate Value Theorem.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Definition of a Derivative.</em> Use the limit definition of the derivative to compute derivatives and evaluate them at a point.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Interpret Derivatives.</em> Interpret derivatives and connect them to slopes of tangent lines, instantaneous rates of change, or velocity of an object.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Common Derivatives.</em> Differentiate and interpret <q>basic function types.</q>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Product and Quotient Rules.</em> Use the Product Rule and Quotient Rule to compute derivatives of functions with products and quotients of function types.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Chain Rule.</em> Use the Chain Rule to compute derivatives of composite functions.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Implicit Differentiation.</em> Compute the derivative of implicitly defined functions and relations, and solve related rates problems.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Inverse Derivatives.</em> Compute derivatives involving inverse functions.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Mean Value Theorem.</em> Describe what connection the Mean Value Theorem makes between a function and its derivative, and use it to connect instantaneous and average slopes of a function.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Increasing/Decreasing.</em> Find critical points of a function, determine where the function is increasing and decreasing, and use the First and Second Derivative Tests to classify critical points as local extrema or not.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Concavity.</em> Determine where the function is concave up and concave down and find any inflection points of a function.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Absolute Extrema.</em> Find absolute maximums and minimums of continuous functions on either closed or open intervals (if they exist).
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Linear Approximation.</em> Build and use a Linear Approximation of some function to approximate a value.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Antiderivatives and Indefinite Integrals.</em> Antidifferentiate <q>basic function types,</q> find indefinite integrals, and solve initial value problems.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Riemann Sums.</em> Use Riemann sums to approximate the area under a curve.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Fundamental Theorem of Calculus.</em> Evaluate derivatives of definite integrals using the Fundamental Theorem of Calculus Part 1 and evaluate definite integrals using the Fundamental Theorem of Calculus Part 2.
+                    </p>
+                </li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection xml:id="extra">
+        <title>Extra Standards</title>
+        <p>
+            <ol marker="E.1.">
+                <li>
+                    <p>
+                        <em>Squeeze Theorem.</em> Evaluate limits using the Squeeze Theorem, and interpret and/or apply the theorem graphically as well as analytically.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Precise Definition of Limits.</em> Build the work to construct formal proofs of limits, using the <m>\varepsilon-\delta</m> definition or the open set definition of limits.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Advanced Derivatives.</em> Evaluate derivatives of functions involving many different combinations of function types or requiring techniques like logarithmic differentiation.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Optimization.</em> Set up and use derivatives to solve optimization problems.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>L'Hopital's Rule.</em> Use derivatives to evaluate indeterminate limits using L'Hopital's Rule.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Definite Integral Tricks.</em> Use properties of definite integrals (including symmetry) to evaluate definite integrals. Find the average value of a function.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em><m>u</m>-Substitution.</em> Use substitution to find indefinite integrals and evaluate definite integrals.
+                    </p>
+                </li>
+            </ol>
+        </p>
+    </subsection>
+</section>
