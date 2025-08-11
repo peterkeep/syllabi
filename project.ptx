@@ -5,9 +5,30 @@
 <!-- This file, the project manifest, provides the overall configuration for your PreTeXt project. To edit the content of your document, open `source/main.ptx`. See https://pretextbook.org/doc/guide/html/processing-CLI.html#cli-project-manifest. -->
 <project ptx-version="2">
   <targets>
-    <target name="web" format="html" />
-    <target name="print" format="pdf" />
+    <target name="web150" 
+            format="html" 
+            source="main-MTH150.ptx"
+            deploy-dir="web"
+    />
+    <target name="print150" 
+            format="pdf"
+            source="main-MTH150.ptx" 
+            deploy-dir="pdf"
+            output-filename="MTH150-Syllabus.pdf"
+    />
+    <target name="web151" 
+            format="html" 
+            source="main-MTH151.ptx"
+            deploy-dir="web"
+    />
+    <target name="print151" 
+            format="pdf"
+            source="main-MTH151.ptx" 
+            deploy-dir="pdf"
+            output-filename="MTH151-Syllabus.pdf"
+    />
   </targets>
+  
 </project>
 
 
