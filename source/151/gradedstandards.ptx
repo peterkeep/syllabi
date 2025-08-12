@@ -1,0 +1,153 @@
+<section xml:id="gradedstandards">
+    <title>Graded Standards</title>
+    <subsection xml:id="main">
+        <title>Main Standards</title>
+        <p>
+            <ol marker="M.1.">
+                <li>
+                    <p>
+                        <em>Net Change and Antiderivatives</em> In applications with position, velocity, and acceleration, find total displacement and distance traveled of an object, or other net changes. Find antiderivatives given an initial value.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Area Between Curves.</em> For a region between curves, set up and evaluate integral expressions with regard to <m>x</m> or <m>y</m>, whichever is reasonable to represent the area of the region.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Volumes of Solids of Revolution.</em> For a solid of revolution around an axis, set up and evaluate integral expressions to represent the volume of the solid using the disk or washer method as well as using the shell method.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Physical Applications of Integrals.</em> Use Riemann sums to build and evaluate integral expressions for physical applications (including Mass and Work).
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em><m>u</m>-Substitution.</em> Use substitution to find indefinite integrals and evaluate definite integrals.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Algebraic Manipulations of Integrals.</em> Use algebraic manipulations of the integrand to find indefinite integrals and evaluate definite integrals.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Integration by Parts.</em> Use integration by parts to find indefinite integrals and evaluate definite integrals.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Integrating Powers of Trigonometric Functions.</em> Find indefinite integrals and evaluate definite integrals involving different powers of trigonometric functions.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Improper Integrals.</em> Describe the characteristics of improper integrals, and use limit notation to find evaluate improper integrals.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Introductory Sequences.</em> Describe the properties of a sequence using terminology, and find limits of sequences.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Introductory Series.</em> Find partial sums of an infinite series and describe the convergence or divergence of a series through interpreting the sequence of partial sums.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Divergence Test.</em> Apply the Divergence Test to a series and interpret the results.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Alternating Series Test.</em> Apply the Alternating Series Test to an alternating series and interpret the results.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Common Series Types.</em> Identify whether a given series is geometric, a <m>p</m>-series, or neither of these common series types. Interpret convergence or divergence for geometric series and <m>p</m>-series.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Comparison Tests.</em> Use a Direct or Limit Comparison Test to compare a series to a common series in order to infer convergence or divergence.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Ratio and Root Tests</em> Apply the Ratio and Root Tests to an infinite series and interpret the results.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Polynomial Approximation of Functions.</em> Construct a Taylor polynomial of a specified degree centered at some specified value to approximate a function. Comment on the accuracy of the approximation.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Power Series Convergence.</em> For a power series, find the interval and radius of convergence.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Building Taylor Series.</em> Using the formula for terms in a Taylor series as well as some <q>known</q> Taylor series representations of specific functions, construct the Taylor series representation for a given function, and report the interval and radius of convergence.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Parametric and Polar Curves.</em> Analyze and graph relations expressed in parametric and polar form.
+                    </p>
+                </li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection xml:id="extra">
+        <title>Extra Standards</title>
+        <p>
+            <ol marker="E.1.">
+                <li>
+                    <p>
+                        <em>Volumes with Shifted Axes.</em> For a solid of revolution around a vertical or horizontal line (shifted away from the axes), set up and evaluate integral expressions to represent the volume of the solid.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Arc Length and Surface Area.</em> Set up integral expressions representing the length of a curve between two points and the surface area of a solid of revolution.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Trigonometric Substitution.</em> Use trigonometric substitution to find indefinite integrals and evaluate definite integrals.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Partial Fractions.</em> Decompose a rational function into partial fractions and find indefinite integrals and evaluate definite integrals involving these partial fractions.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Integral Test.</em> For an infinite series, decide whether or not the integral test is appropriate, and when it is, apply it and interpret the results.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Conditional and Absolute Convergence.</em> For a converging alternating series, explain whether it converges conditionally or absolutely, as well as the difference between the two.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <em>Calculus with Parametric and Polar Curves.</em> Differentiate, find slopes of tangent lines, and evaluate definite integrals for parametric curves and polar curves.
+                    </p>
+                </li>
+            </ol>
+        </p>
+    </subsection>
+</section>

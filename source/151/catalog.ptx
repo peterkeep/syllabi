@@ -1,0 +1,20 @@
+<subsection xml:id="catalog">
+    <title>Catalog Description</title>
+    <subsubsection xml:id="prereq">
+        <title>Prerequisites</title>
+        <p>
+            MTH 150 (Calculus I) with a minimum grade of <q>C.</q>
+        </p>
+    </subsubsection>
+    <subsubsection xml:id="coursedescription">
+        <title>Course Description</title>
+        <p>
+            This course is a continuation of MTH-150 (Calculus I). Topics include applications of the integral, techniques of integration, indeterminate forms, improper integrals, infinite series, conic sections, polar coordinates, and parametric equations.
+        </p>
+    </subsubsection>
+    <conclusion>
+        <p>
+            <em>Illinois Articulation Initiative number:</em> MTH 902
+        </p>
+    </conclusion>
+</subsection>

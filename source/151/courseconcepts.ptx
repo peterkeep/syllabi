@@ -1,0 +1,37 @@
+<subsection xml:id="courseconcepts">
+    <title>Major Course Concepts</title>
+    <p>
+       <ol>
+        <li>
+            <p>
+                Integration techniques
+            </p>
+        </li>
+        <li>
+            <p>
+                Applications of the integral
+            </p>
+        </li>
+        <li>
+            <p>
+                Improper integrals
+            </p>
+        </li>
+        <li>
+            <p>
+                Sequences and series
+            </p>
+        </li>
+        <li>
+            <p>
+                Conic sections
+            </p>
+        </li>
+        <li>
+            <p>
+                Parametric and Polar equations; plane curves
+            </p>
+        </li>
+       </ol> 
+    </p>
+</subsection>

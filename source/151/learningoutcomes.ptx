@@ -1,0 +1,72 @@
+<subsection xml:id="learningoutcomes">
+    <title>Expected Outcomes for Student Learning</title>
+    <subsubsection xml:id="courseSLO">
+        <title>Course Student Learning Outcomes</title>
+        <p>
+            Upon completion of this course, a student will be able to:
+            <ol>
+                <li>
+                    <p>
+                        Use integration to compute the area under a curve and between two curves.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Use integration to compute the volume of solids of revolution using the methods of disks, shells and washers.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Use integration to compute arc length, surface areas of solids of revolution, and other geometric or physical measurements.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Employ various techniques (integration by parts, partial fractions, trigonometric substitution) to find indefinite integrals and to compute the values of definite integrals.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Use L'Hopital's Rule to evaluate improper integrals.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Identify whether an infinite series is convergent, conditionally convergent, or divergent.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Use power series to find derivatives and integrals of functions.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Identify, describe and sketch basic conic sections using rotation and/or translation of second degree equations.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Graph, differentiate and analyze relations expressed in parametric form.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Graph, differentiate and integrate functions in the polar coordinate system.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Use a computer algebra system to solve problems that are challenging to attempt by conventional methods.
+                    </p>
+                </li>
+            </ol>
+        </p>
+    </subsubsection>
+    <subsubsection xml:id="CLO">
+        <title>Common Learning Outcomes</title>
+        <p>
+            <em>Quantitative Literacy:</em> Use processes, procedures, data or evidence to solve problems and make effective decisions.
+        </p>
+    </subsubsection>
+</subsection>

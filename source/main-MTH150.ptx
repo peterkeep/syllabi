@@ -2,11 +2,7 @@
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
   <docinfo>
-
     <document-id>MTH150-Syllabus</document-id>
-
-    <macros>\newcommand{\foo}{b^{ar}}</macros>
-    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
   </docinfo>
 
   <article xml:id="MTH150-Syllabus">
@@ -14,13 +10,100 @@
 
     <xi:include href="./frontmatter.ptx" />
     <xi:include href="./150/introduction.ptx" />
-    <xi:include href="./facultycourseinfo.ptx" />
-    <xi:include href="./courseinfo.ptx" />
+    
+    <section xml:id="facultycourseinfo">
+      <title>Faculty and Section Information</title>
+      <xi:include href="./common/faculty.ptx" />
+      <xi:include href="./common/officehours.ptx" />
+      <xi:include href="./150/section.ptx" />
+    </section>
+
+    <section xml:id="courseinfo">
+      <title>Course Information</title>
+      <xi:include href="./150/courseid.ptx" />
+      <xi:include href="./150/catalog.ptx" />
+      <xi:include href="./150/courseconcepts.ptx" />
+      <xi:include href="./150/learningoutcomes.ptx" />
+    </section>
+
     <xi:include href="./books.ptx" />
-    <xi:include href="./classroompolicies.ptx" />
-    <xi:include href="./common/gradingpolicies.ptx" />
+    <section xml:id="classroompolicies">
+      <title>Classroom Policies and Procedures</title>
+    
+      <xi:include href="./common/attendance.ptx" />
+      <xi:include href="./common/academicintegrity.ptx" />
+      <xi:include href="./common/email.ptx" />
+
+      <subsection xml:id="dates">
+        <title>Withdrawal Deadline</title>
+        <p>
+            A student who does not withdraw officially from a course may receive a grade of <q>F</q> depending on course progress or course attendance.
+        </p>
+        <xi:include href="./150/datestable.ptx" />
+        <note>
+            <p>
+                If you have a hold on your record which prevents you from dropping classes online, you must either visit the Registration Office (S111A) or call (708) 974-2110 to drop classes during normal business hours
+            </p>
+        </note>
+      </subsection>
+
+      <xi:include href="./common/accommodations.ptx" />
+    </section>
+    
+    <section xml:id="gradingpolicies">
+      <title>Grading Policies</title>
+      <introduction>
+          <p>
+              This class will use a grading scheme called <q>Standards Based Grading</q> this semester. It is different from a traditional points-based grading system in several ways:
+              <ul>
+                  <li>
+                      <p>
+                          There are no points or number grades on anything. Instead, we'll focus on feedback instead of numbers.
+                      </p>
+                  </li>
+                  <li>
+                      <p>
+                          Every assignment or assessment that is turned in for a grade will be aligned with a topic in the class that you are graded on. Your submitted work will either meet the expectations for that topic (we'll call these <q>graded standards</q>) or it will not.
+                      </p>
+                  </li>
+                  <li>
+                      <p>
+                          You can retake things to update your grade on a standard.
+                      </p>
+                  </li>
+              </ul>
+          </p>
+      </introduction>
+      <xi:include href="./common/mainstandards.ptx" />
+      <xi:include href="./common/extrastandards.ptx" />
+      <xi:include href="./common/gradingscale.ptx" />
+
+      <subsection xml:id="gradecomposition">
+          <title>Grade Composition</title>
+          <p>
+              Your grade will be calculated based on your progression through the different types of standards. Below is a chart denoting how many standards need to be met from each category to earn each letter grade.
+          </p>
+          <xi:include href="./150/gradetable.ptx" />
+          <p>
+              You will end the semester with the highest letter grade for which you have met the requirements in all four categories. In other words, each column represents the minimum requirements for that letter grade.
+          </p>
+      </subsection>
+      <xi:include href="./common/assignments.ptx" />
+    </section>
+
     <xi:include href="./150/gradedstandards.ptx" />
-    <xi:include href="./common/schedule.ptx" />
+    
+    <section xml:id="schedule">
+        <title>Schedule</title>
+        <note>
+            <p>
+                This schedule is an outline and it may change throughout the semester. Any changes will be announced.
+            </p>
+        </note>
+        <xi:include href="./150/scheduletable.ptx" />
+        
+    </section>
+
   </article>
 
 </pretext>

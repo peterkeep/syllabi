@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<section xml:id="courseinfo" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Course Information</title>
-  <xi:include href="./150/courseid.ptx" />
-  <xi:include href="./150/catalog.ptx" />
-  <xi:include href="./150/courseconcepts.ptx" />
-  <xi:include href="./150/learningoutcomes.ptx" />
-</section>

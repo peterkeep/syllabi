@@ -6,14 +6,20 @@
     <tabular>
         <row>
             <cell>Instructor Name:</cell> <cell>Peter Keep</cell>
+        </row>
+        <row>
             <cell>Email:</cell> <cell>keepp@morainevalley.edu</cell>
         </row>
         <row>
             <cell>Office:</cell> <cell>A230</cell>
+        </row>
+        <row>
             <cell>Mailbox:</cell> <cell>C154</cell>
         </row>
         <row>
             <cell>Office Phone:</cell> <cell>(708) 974-5614</cell>
+        </row>
+        <row>
             <cell>Testing Center File #:</cell> <cell>564</cell>
         </row>
     </tabular>

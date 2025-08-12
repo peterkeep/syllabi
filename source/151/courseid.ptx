@@ -1,0 +1,20 @@
+<subsection xml:id="courseid">
+    <title>Course Identification</title>
+    <table>
+        <title></title>
+        <tabular>
+            <row>
+                <cell>Course Number:</cell> <cell>MTH 151</cell>
+            </row>
+            <row>
+                <cell>Course Title:</cell> <cell>Calculus II/Analytic Geometry</cell>
+            </row>
+            <row>
+                <cell>Credit Hours:</cell> <cell>5 (Lecture/Demonstration)</cell>
+            </row>
+            <row>
+                <cell>Total Contact Hours/Week:</cell> <cell>5</cell>
+            </row>
+        </tabular>
+    </table>
+</subsection>

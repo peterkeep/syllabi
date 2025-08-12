@@ -1,0 +1,40 @@
+<table>
+    <title></title>
+    <tabular>
+        <row bottom="medium">
+            <cell></cell>
+            <cell><em>A</em></cell>
+            <cell><em>B</em></cell>
+            <cell><em>C</em></cell>
+            <cell><em>D</em></cell>
+        </row>
+        <row>
+            <cell><em>Main Standards (20)</em></cell>
+            <cell>19</cell>
+            <cell>16</cell>
+            <cell>13</cell>
+            <cell>11</cell>
+        </row>
+        <row>
+            <cell><em>Continued Learning (20)</em></cell>
+            <cell>8</cell>
+            <cell>4</cell>
+            <cell>2</cell>
+            <cell>0</cell>
+        </row>
+        <row>
+            <cell><em>Extra Standards (7)</em></cell>
+            <cell>5</cell>
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell>0</cell>
+        </row>
+        <row>
+            <cell><em>Practice Problem Reflections (14)</em></cell>
+            <cell>7</cell>
+            <cell>7</cell>
+            <cell>7</cell>
+            <cell>0</cell>
+        </row>
+    </tabular>
+</table>

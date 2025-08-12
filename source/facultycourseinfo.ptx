@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<section xml:id="facultycourseinfo" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Faculty and Section Information</title>
-  <xi:include href="./common/faculty.ptx" />
-  <xi:include href="./common/officehours.ptx" />
-  <xi:include href="./150/section.ptx" />
-</section>
