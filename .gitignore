@@ -20,7 +20,6 @@ executables.ptx
 node_modules
 
 # don't track error logs
-.error*
 .error_schema.log
 logs
 
