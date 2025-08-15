@@ -5,7 +5,7 @@
         <directories external="../assets" generated="../generated-assets"/>
     </source>
     <html embed-button="yes">
-        <platform host="web" portable="true"/>
+        <platform host="web" portable="no"/>
         <css 
             theme="boulder"
             primary-color="#085646"
