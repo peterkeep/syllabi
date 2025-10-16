@@ -109,57 +109,68 @@
         <row>
             <cell>Week 9: </cell>
             <cell>Oct. 14</cell>
+            <cell>M.12. Inverse Derivatives</cell>
+        </row>
+
+        <row>
+            <cell></cell>
+            <cell>Oct. 16</cell>
             <cell>E.3. Advanced Derivatives</cell>
         </row>
-        <row>
+        <row bottom="medium">
             <cell></cell>
             <cell></cell>
             <cell>M.13. Mean Value Theorem</cell>
         </row>
         <row>
-            <cell></cell>
-            <cell>Oct. 16</cell>
+            <cell>Week 10: </cell>
+            <cell>Oct. 21</cell>
             <cell>M.14. Increasing/Decreasing</cell>
         </row>
-        <row bottom="medium">
+        <row>
             <cell></cell>
             <cell></cell>
             <cell><em>Checkup 4: M.7, M.8, M.9, M.10, M.11, M.12, E.3</em></cell>
         </row>
         <row>
-            <cell>Week 10: </cell>
-            <cell>Oct. 21</cell>
+            <cell></cell>
+            <cell>Oct. 23</cell>
             <cell>M.15. Concavity</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Oct. 23</cell>
+            <cell></cell>
             <cell>M.16. Absolute Extrema</cell>
         </row>
         <row>
             <cell>Week 11: </cell>
             <cell>Oct. 28</cell>
+            <cell>M.16. Absolute Extrema</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell></cell>
             <cell>E.4. Optimization</cell>
         </row>
         <row>
             <cell></cell>
             <cell>Oct. 30</cell>
-            <cell><em>Checkup 5: M.13, M.15. M.16, E.4</em></cell>
+            <cell>M.17. Linear Approximation</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
             <cell></cell>
-            <cell><em>Retakes for Checkups 3-4</em></cell>
+            <cell>E.5. L'Hopital's Rule</cell>
         </row>
         <row>
             <cell>Week 12: </cell>
             <cell>Nov. 4</cell>
-            <cell>M.17. Linear Approximation</cell>
+            <cell><em>Checkup 5: M.13, M.15. M.16, E.4</em></cell>
         </row>
         <row>
             <cell></cell>
             <cell></cell>
-            <cell>E.5. L'Hopital's Rule</cell>
+            <cell><em>Retakes for Checkups 3-4</em></cell>
         </row>
         <row bottom="medium">
             <cell></cell>
