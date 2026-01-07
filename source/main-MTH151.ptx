@@ -7,6 +7,7 @@
 
   <article xml:id="MTH151-Syllabus">
     <title>MTH 151 Syllabus</title>
+    <subtitle>Fall 2025</subtitle>
 
     <xi:include href="./frontmatter.ptx" />
     <xi:include href="./151/introduction.ptx" />
