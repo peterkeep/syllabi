@@ -8,33 +8,33 @@
         </row>
         <row>
             <cell>Week 1: </cell>
-            <cell>Aug. 18</cell>
+            <cell>Jan. 13</cell>
             <cell>Welcome to Class!</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Aug. 20</cell>
+            <cell>Jan. 15</cell>
             <cell>M.1. Net Change and Antiderivatives</cell>
         </row>
         <row>
             <cell>Week 2: </cell>
-            <cell>Aug. 25</cell>
+            <cell>Jan. 20</cell>
             <cell>M.2. Area Between Curves</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Aug. 27</cell>
+            <cell>Jan. 22</cell>
             <cell>M.3. Volumes of Solids of Revolution</cell>
         </row>
         <row>
             <cell>Week 3: </cell>
-            <cell>Sept. 1</cell>
-            <cell><em>No Class: Labor Day</em></cell>
+            <cell>Jan. 27</cell>
+            <cell>E.1. Volumes with Shifted Axes</cell>
         </row>
         <row>
             <cell></cell>
-            <cell>Sept. 3</cell>
-            <cell>E.1. Volumes with Shifted Axes</cell>
+            <cell>Jan. 29</cell>
+            <cell>E.2. Arc Length and Surface Area</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
@@ -43,28 +43,28 @@
         </row>
         <row>
             <cell>Week 4: </cell>
-            <cell>Sept. 8</cell>
-            <cell>E.2. Arc Length and Surface Area</cell>
+            <cell>Feb. 3</cell>
+            <cell>M.4. Physical Applications of Integrals</cell>
         </row>
         <row>
             <cell></cell>
             <cell></cell>
-            <cell>M.4. Physical Applications of Integrals</cell>
+            <cell>M.5. Improper Integrals</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Sept. 10</cell>
-            <cell>M.5. Improper Integrals</cell>
-        </row>
-        <row>
-            <cell>Week 5: </cell>
-            <cell>Sept. 15</cell>
+            <cell>Feb. 5</cell>
             <cell>M.6. <m>u</m>-Substitution</cell>
         </row>
         <row>
-            <cell></cell>
-            <cell>Sept. 17</cell>
+            <cell>Week 5: </cell>
+            <cell>Feb. 10</cell>
             <cell>M.7. Algebraic Manipulations of Integrals</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell>Feb. 12</cell>
+            <cell>M.8. Integration by Parts</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
@@ -73,22 +73,22 @@
         </row>
         <row>
             <cell>Week 6: </cell>
-            <cell>Sept. 22</cell>
-            <cell>M.8. Integration by Parts</cell>
+            <cell>Feb. 17</cell>
+            <cell>M.9. Integrating Powers of Trigonometric Functions</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Sept. 24</cell>
-            <cell>M.9. Integrating Powers of Trigonometric Functions</cell>
-        </row>
-        <row>
-            <cell>Week 7: </cell>
-            <cell>Sept. 29</cell>
+            <cell>Feb. 19</cell>
             <cell>E.3. Trigonometric Substitution</cell>
         </row>
         <row>
+            <cell>Week 7: </cell>
+            <cell>Feb. 24</cell>
+            <cell><em>Staff Development Day: No Class</em></cell>
+        </row>
+        <row>
             <cell></cell>
-            <cell>Oct. 1</cell>
+            <cell>Feb. 26</cell>
             <cell><em>Checkup 3: M.5, M.6, M.7, M.8</em></cell>
         </row>
         <row bottom="medium">
@@ -98,22 +98,27 @@
         </row>
         <row>
             <cell>Week 8: </cell>
-            <cell>Oct. 6</cell>
+            <cell>Mar. 3</cell>
             <cell>E.4. Partial Fractions</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Oct. 8</cell>
+            <cell>Mar. 5</cell>
             <cell>M.10. Introductory Sequences</cell>
+        </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Mar. 9-15</cell>
+            <cell><em>Spring Break: No Classes</em></cell>
         </row>
         <row>
             <cell>Week 9: </cell>
-            <cell>Oct. 13</cell>
+            <cell>Mar. 17</cell>
             <cell>M.11. Introductory Series</cell>
         </row>
         <row>
             <cell></cell>
-            <cell>Oct. 15</cell>
+            <cell>Mar. 19</cell>
             <cell>M.12. Divergence Test</cell>
         </row>
         <row bottom="medium">
@@ -123,7 +128,7 @@
         </row>
         <row>
             <cell>Week 10: </cell>
-            <cell>Oct. 20</cell>
+            <cell>Mar. 24</cell>
             <cell>E.5. Integral Test</cell>
         </row>
         <row>
@@ -133,7 +138,7 @@
         </row>
         <row>
             <cell></cell>
-            <cell>Oct. 22</cell>
+            <cell>Mar. 26</cell>
             <cell>E.6. Conditional and Absolute Convergence</cell>
         </row>
         <row bottom="medium">
@@ -143,12 +148,12 @@
         </row>
         <row>
             <cell>Week 11: </cell>
-            <cell>Oct. 27</cell>
+            <cell>Mar. 31</cell>
             <cell>M.15. Comparison Tests</cell>
         </row>
         <row>
             <cell></cell>
-            <cell>Oct. 29</cell>
+            <cell>Apr. 2</cell>
             <cell><em>Checkup 5: M.10, M.11, M.12, E.5, M.13</em></cell>
         </row>
         <row bottom="medium">
@@ -158,62 +163,62 @@
         </row>
         <row>
             <cell>Week 12: </cell>
-            <cell>Nov. 3</cell>
+            <cell>Apr. 7</cell>
             <cell>M.16. Ratio and Root Tests</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Nov. 5</cell>
-            <cell>M.17. Polynomial Approximations of Functions</cell>
+            <cell>Apr. 9</cell>
+            <cell><em>No Class</em></cell>
         </row>
         <row>
             <cell>Week 13: </cell>
-            <cell>Nov. 10</cell>
-            <cell>M.18. Power Series Convergence</cell>
+            <cell>Apr. 14</cell>
+            <cell>M.17. Polynomial Approximations of Functions</cell>
         </row>
         <row>
+            <cell></cell>
+            <cell>Apr. 16</cell>
+            <cell>M.18. Power Series Convergence</cell>
+        </row>
+        <row bottom="medium">
             <cell></cell>
             <cell></cell>
             <cell><em>Checkup 6: M.13, E.6, M.14, M.15, M.16</em></cell>
         </row>
-        <row bottom="medium">
-            <cell></cell>
-            <cell>Nov. 12</cell>
-            <cell>M.19. Building Taylor Series</cell>
-        </row>
         <row>
             <cell>Week 14: </cell>
-            <cell>Nov. 17</cell>
-            <cell>M.20. Parametric and Polar Curves</cell>
+            <cell>Apr. 21</cell>
+            <cell>M.19. Building Taylor Series</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Nov. 19</cell>
-            <cell>E.7. Calculus with Parametric and Polar Curves</cell>
+            <cell>Apr. 23</cell>
+            <cell>M.20. Parametric and Polar Curves</cell>
         </row>
         <row>
             <cell>Week 15: </cell>
-            <cell>Nov. 24</cell>
-            <cell><em>Checkup 7: M.17, M.18, M.19, M.20, E.7</em></cell>
+            <cell>Apr. 28</cell>
+            <cell>E.7. Calculus with Parametric and Polar Curves</cell>
         </row>
         <row>
+            <cell></cell>
+            <cell>Apr. 30</cell>
+            <cell><em>Checkup 7: M.17, M.18, M.19, M.20, E.7</em></cell>
+        </row>
+        <row bottom="medium">
             <cell></cell>
             <cell></cell>
             <cell><em>Retakes for Checkups 5-6</em></cell>
         </row>
-        <row bottom="medium">
-            <cell></cell>
-            <cell>Nov. 26</cell>
-            <cell><em>No class: Thanksgiving</em></cell>
-        </row>
         <row>
             <cell>Week 16: </cell>
-            <cell>Dec. 1</cell>
+            <cell>May 5</cell>
             <cell><em>Final Exam (Part 1)</em></cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Dec. 3</cell>
+            <cell>May 7</cell>
             <cell><em>Final Exam (Part 2)</em></cell>
         </row>
     </tabular>

@@ -1,31 +1,31 @@
 <subsection xml:id="section">
     <title>Section Information</title>
     <table>
-        <title></title>
+        <title>Section Information</title>
         <tabular>
             <row>
-                <cell>Section Number:</cell> <cell>003</cell>
+                <cell>Section Number:</cell> <cell>001</cell>
             </row>
             <row>
                 <cell>Room Number:</cell> <cell>D125</cell>
             </row>
             <row>
-                <cell>Meeting Times:</cell> <cell>T/Th 10:00am<ndash/>12:15pm</cell>
+                <cell>Meeting Times:</cell> <cell>M/W 10:00am<ndash/>12:15pm</cell>
             </row>
             <row>
-                <cell>Modality:</cell> <cell>Traditional</cell>
+                <cell>Modality:</cell> <cell>Traditional (face-to-face)</cell>
             </row>
             <row>
-                <cell>First Class:</cell> <cell>08/19/2025</cell>
+                <cell>First Class:</cell> <cell>01/12/2026</cell>
             </row>
             <row>
-                <cell>Last Class:</cell> <cell>12/04/2025</cell>
+                <cell>Last Class:</cell> <cell>05/06/2026</cell>
             </row>
             <row>
-                <cell>Final Exam (Part 1):</cell> <cell>12/02/2025</cell>
+                <cell>Final Exam (Part 1):</cell> <cell>05/04/2026</cell>
             </row>
             <row>
-                <cell>Final Exam (Part 2):</cell> <cell>12/04/2025</cell>
+                <cell>Final Exam (Part 2):</cell> <cell>05/06/2026</cell>
             </row>
         </tabular>
     </table>

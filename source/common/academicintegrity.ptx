@@ -18,4 +18,22 @@
             Repeated instances of Academic Dishonesty will result in a failing grade for the course.
         </p>
     </subsubsection>
+    <subsubsection xml:id="subsec-LLM">
+        <title>A Note on Generative AI and LLMs</title>
+        <p>
+            The short version of this note is, simply, <q>Don't use them.</q>
+        </p>
+        <p>
+            The medium-length version of this note is is that this course is one that will require you, first of all, to think deeply. The course includes calculations, computations, and other things like that, but most important is the deep thinking we'll do about the objects we learn about, the properties of them, and how they interact with each other. My stance is that there is no practical, helpful, or ethical way to use generative AI and large language models to accomplish or assist with this.
+        </p>
+        <p>
+            I promise you that in whatever task or process you consider, these tools will do a less-than-good job and reduce your opportunity to think deeply. Mathematics is a communal activity, done by communicating with each other. While I hope that this class reflects this, I implore you to choose human communication whenever you might otherwise decide to use a tech company's forgery of dialogue.
+        </p>
+        <p>
+            For the long version of this note, or for some ideas of productive alternatives to whatever you might think to use a generative AI tool for, please visit me in office hours or send me an email. I'd love to talk with you about ways that we can reduce our reliance on the tech industry.
+        </p>
+        <p>
+            Last, and equally important, I ask that you respect me and the work I've done by refraining from inputting my textbook, course notes, activities, practice problems, or examples into these tools for any reason.
+        </p>
+    </subsubsection>
 </subsection>

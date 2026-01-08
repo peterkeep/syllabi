@@ -16,4 +16,7 @@
     <common>
         <chunking level="0"/>
     </common>
+    <numbering>
+        <divisions part-structure="decorative" chapter-start="1" level="2"/>
+    </numbering>
 </publication>

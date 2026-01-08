@@ -7,7 +7,7 @@
 
   <article xml:id="MTH150-Syllabus">
     <title>MTH 150 Syllabus</title>
-    <subtitle>Fall 2025</subtitle>
+    <subtitle>Spring 2026</subtitle>
 
     <xi:include href="./frontmatter.ptx" />
     <xi:include href="./150/introduction.ptx" />
@@ -27,7 +27,7 @@
       <xi:include href="./150/learningoutcomes.ptx" />
     </section>
 
-    <xi:include href="./books.ptx" />
+    <xi:include href="./common/books.ptx" />
     <section xml:id="classroompolicies">
       <title>Classroom Policies and Procedures</title>
     
