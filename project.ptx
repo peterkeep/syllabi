@@ -9,7 +9,6 @@
             format="html" 
             source="main-MTH150.ptx"
             deploy-dir="web"
-            output-filename="MTH150-Syllabus.html"
     />
     <target name="print150" 
             format="pdf"
@@ -21,7 +20,6 @@
             format="html" 
             source="main-MTH151.ptx"
             deploy-dir="web"
-            output-filename="MTH151-Syllabus.html"
     />
     <target name="print151" 
             format="pdf"
