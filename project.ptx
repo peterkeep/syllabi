@@ -3,7 +3,7 @@
 <!-- If you modify this file, PreTeXt will no longer automatically update it.-->
 
 <!-- This file, the project manifest, provides the overall configuration for your PreTeXt project. To edit the content of your document, open `source/main.ptx`. See https://pretextbook.org/doc/guide/html/processing-CLI.html#cli-project-manifest. -->
-<project ptx-version="2">
+<project ptx-version="2" stage="output/stage">
   <targets>
     <target name="web150" 
             format="html" 
