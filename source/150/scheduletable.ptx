@@ -8,33 +8,33 @@
         </row>
         <row>
             <cell>Week 1: </cell>
-            <cell>Jan. 12</cell>
+            <cell>Aug. 25</cell>
             <cell>Welcome to Class!</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Jan. 14</cell>
+            <cell>Aug. 27</cell>
             <cell>M.1. Definitions of Limits</cell>
         </row>
         <row>
             <cell>Week 2: </cell>
-            <cell>Jan. 19</cell>
-            <cell><em>Martin L. King Day: No Class</em></cell>
+            <cell>Sept. 1</cell>
+            <cell>M.2. Computing Limits</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Jan. 21</cell>
-            <cell>M.2. Computing Limits</cell>
-        </row>
-        <row>
-            <cell>Week 3: </cell>
-            <cell>Jan. 26</cell>
+            <cell>Sept. 3</cell>
             <cell>M.3. First Indeterminate Forms</cell>
         </row>
         <row>
-            <cell></cell>
-            <cell>Jan. 28</cell>
+            <cell>Week 3: </cell>
+            <cell>Sept. 8</cell>
             <cell>M.4. Limits Involving Infinity</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell>Sept. 10</cell>
+            <cell>E.1. Squeeze Theorem</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
@@ -43,28 +43,28 @@
         </row>
         <row>
             <cell>Week 4: </cell>
-            <cell>Feb. 2</cell>
-            <cell>E.1. Squeeze Theorem</cell>
+            <cell>Sept. 15</cell>
+            <cell>M.5. Continuity</cell>
         </row>
         <row>
             <cell></cell>
-            <cell></cell>
-            <cell>M.5. Continuity</cell>
+            <cell>Sept. 17</cell>
+            <cell>E.2. Precise Definitions of Limits</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Feb. 4</cell>
-            <cell>E.2. Precise Definitions of Limits</cell>
-        </row>
-        <row>
-            <cell>Week 5: </cell>
-            <cell>Feb. 9</cell>
+            <cell></cell>
             <cell>M.6. Definition of a Derivative</cell>
         </row>
         <row>
-            <cell></cell>
-            <cell>Feb. 11</cell>
+            <cell>Week 5: </cell>
+            <cell>Sept. 22</cell>
             <cell>M.7. Interpreting Derivatives</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell>Sept. 24</cell>
+            <cell>M.8. Common Derivatives</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
@@ -73,22 +73,22 @@
         </row>
         <row>
             <cell>Week 6: </cell>
-            <cell>Feb. 16</cell>
-            <cell><em>Presidents' Day: No Class</em></cell>
+            <cell>Sept. 29</cell>
+            <cell>M.8. Common Derivatives</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Feb. 18</cell>
-            <cell>M.8. Common Derivatives</cell>
+            <cell>Oct. 1</cell>
+            <cell>M.9. Product and Quotient Rules</cell>
         </row>
         <row>
             <cell>Week 7: </cell>
-            <cell>Feb. 23</cell>
-            <cell>M.8. Common Derivatives</cell>
+            <cell>Oct. 6</cell>
+            <cell>M.10. Chain Rule</cell>
         </row>
         <row>
             <cell></cell>
-            <cell>Feb. 25</cell>
+            <cell>Oct. 8</cell>
             <cell><em>Checkup 3: M.6, M.7, M8</em></cell>
         </row>
         <row bottom="medium">
@@ -98,43 +98,44 @@
         </row>
         <row>
             <cell>Week 8: </cell>
-            <cell>Mar. 2</cell>
-            <cell>M.9. Product and Quotient Rules</cell>
-        </row>
-        <row bottom="medium">
-            <cell></cell>
-            <cell>Mar. 4</cell>
-            <cell>M.10. Chain Rule</cell>
-        </row>
-        <row bottom="medium">
-            <cell></cell>
-            <cell>Mar. 9-15</cell> 
-            <cell><em>Spring Break: No Class</em></cell>
-        </row>
-        <row>
-            <cell>Week 9: </cell>
-            <cell>Mar. 16</cell>
+            <cell>Oct. 13</cell>
             <cell>M.11. Implicit Differentiation</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>Mar. 18</cell>
+            <cell>Oct. 15</cell>
             <cell>M.12. Inverse Derivatives</cell>
         </row>
+        <!-- <row bottom="medium">
+            <cell></cell>
+            <cell>Mar. 9-15</cell> 
+            <cell><em>Spring Break: No Class</em></cell>
+        </row> -->
         <row>
-            <cell>Week 10: </cell>
-            <cell>Mar. 23</cell>
+            <cell>Week 9: </cell>
+            <cell>Oct. 20</cell>
             <cell>E.3. Advanced Derivatives</cell>
-        </row>
+        </row>        
         <row>
             <cell></cell>
             <cell></cell>
             <cell>M.13. Mean Value Theorem</cell>
         </row>
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Oct. 22</cell>
+            <cell>M.14. Increasing/Decreasing</cell>
+        </row>
+        <row>
+            <cell>Week 10: </cell>
+            <cell>Oct. 27</cell>
+            <cell>M.15. Concavity</cell>
+        </row>
+
         <row>
             <cell></cell>
-            <cell>Mar. 25</cell>
-            <cell>M.14. Increasing/Decreasing</cell>
+            <cell>Oct. 29</cell>
+            <cell>M.16. Absolute Extrema</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
@@ -143,37 +144,32 @@
         </row>
         <row>
             <cell>Week 11: </cell>
-            <cell>Mar. 30</cell>
-            <cell>M.15. Concavity</cell>
+            <cell>Nov. 3</cell>
+            <cell><em>Election Day: No Class</em></cell>
         </row>
         <row>
             <cell></cell>
-            <cell></cell>
-            <cell>M.16. Absolute Extrema</cell>
-        </row>
-        <row>
-            <cell></cell>
-            <cell>Apr. 1</cell>
-            <cell>M.16. Absolute Extrema</cell>
+            <cell>Nov. 5</cell>
+            <cell>E.4. Optimization</cell>
         </row>
         <row bottom="medium">
             <cell></cell>
             <cell></cell>
-            <cell>E.4. Optimization</cell>
-        </row>
-        <row>
-            <cell>Week 12: </cell>
-            <cell>Apr. 6</cell>
             <cell>M.17. Linear Approximation</cell>
         </row>
         <row>
-            <cell></cell>
-            <cell></cell>
+            <cell>Week 12: </cell>
+            <cell>Nov. 10</cell>
             <cell>E.5. L'Hopital's Rule</cell>
         </row>
         <row>
             <cell></cell>
-            <cell>Apr. 8</cell>
+            <cell></cell>
+            <cell>M.18. Antiderivatives and Indefinite Integrals</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell>Nov. 12</cell>
             <cell><em>Checkup 5: M.13, M.14, M.15, M.16, E.4</em></cell>
         </row>
         <row bottom="medium">
@@ -183,24 +179,33 @@
         </row>
         <row>
             <cell>Week 13: </cell>
-            <cell>Apr. 13</cell>
-            <cell>M.18. Antiderivatives and Indefinite Integrals</cell>
-        </row>
-        <row bottom="medium">
-            <cell></cell>
-            <cell>Apr. 15</cell>
+            <cell>Nov. 17</cell>
             <cell>M.19. Riemann Sums</cell>
         </row>
         <row>
-            <cell>Week 14: </cell>
-            <cell>Apr. 20</cell>
+            <cell></cell>
+            <cell></cell>
             <cell>M.20. Fundamental Theorem of Calculus</cell>
         </row>
-        
+        <row bottom="medium">
+            <cell></cell>
+            <cell>Nov. 19</cell>
+            <cell><em>No Class</em></cell>
+        </row>
+        <row>
+            <cell>Week 14: </cell>
+            <cell>Nov. 24</cell>
+            <cell>M.20. Fundamental Theorem of Calculus</cell>
+        </row>
         <row>
             <cell></cell>
-            <cell>Apr. 22</cell>
+            <cell></cell>
             <cell>E.6. Definite Integral Tricks</cell>
+        </row>
+        <row>
+            <cell></cell>
+            <cell>Nov. 26</cell>
+            <cell><em>Thanksgiving Break: No Class</em></cell>
         </row>
         <row bottom="medium">
             <cell></cell>
@@ -209,12 +214,12 @@
         </row>
         <row>
             <cell>Week 15: </cell>
-            <cell>Apr. 27</cell>
+            <cell>Dec. 1</cell>
             <cell>E.7. <m>u</m>-Substitution</cell>
         </row>
         <row>
             <cell></cell>
-            <cell>Apr. 29</cell>
+            <cell>Dec. 3</cell>
             <cell><em>Checkup 7: M.18, M.20, E.6, E.7</em></cell>
         </row>
         <row bottom="medium">
@@ -224,12 +229,12 @@
         </row>
         <row>
             <cell>Week 16: </cell>
-            <cell>May 4</cell>
+            <cell>Dec. 8</cell>
             <cell><em>Final Exam (Part 1)</em></cell>
         </row>
         <row bottom="medium">
             <cell></cell>
-            <cell>May 6</cell>
+            <cell>Dec. 10</cell>
             <cell><em>Final Exam (Part 2)</em></cell>
         </row>
     </tabular>
